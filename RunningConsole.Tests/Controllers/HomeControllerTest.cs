@@ -35,7 +35,7 @@ namespace RunningConsole.Tests.Controllers
             ViewResult result = controller.About() as ViewResult;
 
             // Assert
-            Assert.AreEqual("Your application description page.", result.ViewBag.Message);
+            Assert.AreEqual("Application Info:", result.ViewBag.Message);
         }
 
         [TestMethod]

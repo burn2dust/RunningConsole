@@ -1,0 +1,1 @@
+﻿alert("Do not \"Pre-end\" your run. \nDo not start before you competitors. \n Make sure to set up split(-time)s beforehand. \nAnd above all have fun; we're a community of gamers. Not a pack of lemmings.");
